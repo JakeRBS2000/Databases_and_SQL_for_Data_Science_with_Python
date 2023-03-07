@@ -9,7 +9,7 @@ Accessing Databases using Python (3.1.1 - 3.1.4) = Learning the basic concepts r
 - Connect to a database using ibm_db Python library.
 - Analyze a data set using SQL and Python.
 
-Course Assignment (4.1.1 - 4.1.2) (Assignment Preparation; Working with Real-World Data Sets & Built in SQL Functions and Assignment) = Working with multiple real world datasets for the city of Chicago in the production of an assignment.
+Course Assignment (4.1.1 - DB0201EN-PeerAssign) (Assignment Preparation; Working with Real-World Data Sets & Built in SQL Functions and Assignment) = Working with multiple real world datasets for the city of Chicago in the production of an assignment.
 - Invoke SQL queries using Python.
 - Retrieve SQL query results and analyze data.
 - Interpret and translate data analysis questions into SQL queries.
